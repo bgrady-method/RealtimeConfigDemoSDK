@@ -1,0 +1,13 @@
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.csproj.AssemblyReference.cache
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.AssemblyInfoInputs.cache
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.AssemblyInfo.cs
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.csproj.CoreCompileInputs.cache
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.sourcelink.json
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\bin\Debug\net8.0\RealtimeConfigDemoSDK.deps.json
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\bin\Debug\net8.0\RealtimeConfigDemoSDK.dll
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\bin\Debug\net8.0\RealtimeConfigDemoSDK.pdb
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.dll
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\refint\RealtimeConfigDemoSDK.dll
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\RealtimeConfigDemoSDK.pdb
+C:\MethodDev\RealtimeConfigDemoSDK\RealtimeConfigDemoSDK\obj\Debug\net8.0\ref\RealtimeConfigDemoSDK.dll
