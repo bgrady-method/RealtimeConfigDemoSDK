@@ -3,6 +3,7 @@ packages
 TestResults
 bin
 obj
+**/obj
 _Resharper.Caches
 *.nugetreferenceswitcher
 
